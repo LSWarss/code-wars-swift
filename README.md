@@ -1,3 +1,4 @@
-# competitive-programming
+# Code Wars Swift Package
 
-A description of this package.
+## Description 
+Simple repository/package with my code wars solutions for Swift Language
